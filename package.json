@@ -1,0 +1,45 @@
+{
+  "name": "cjsxy",
+  "version": "0.1.0",
+  "description": "Browserify transform for CJSX (CoffeeScript equivalent of JSX used in React library by Facebook)",
+  "main": "index.js",
+  "dependencies": {
+    "coffee-script": "~1.7.0",
+    "through": "~2.3.4",
+    "convert-source-map": "~0.3.3",
+    "coffee-react-transform": "~0.1.5"
+  },
+  "devDependencies": {
+    "browserify": "~3.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SimonDegraeve/cjsxify.git"
+  },
+  "homepage": "https://github.com/SimonDegraeve/cjsxify",
+  "bugs": "https://github.com/SimonDegraeve/cjsxify/issues",
+  "keywords": [
+    "react",
+    "coffee-react",
+    "coffee-script",
+    "browserify",
+    "browserify-transform",
+    "v2",
+    "js",
+    "jsx",
+    "cjsx",
+    "plugin",
+    "transform"
+  ],
+  "contributors": [
+    {
+      "name": "Simon Degraeve",
+      "email": "simon.degraeve@gmail.com",
+      "url": "https://github.com/SimonDegraeve"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
