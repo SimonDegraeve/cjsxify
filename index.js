@@ -84,7 +84,7 @@ function cjsxify(file) {
     }
 }
 
-coffeeify.compile = compile;
-coffeeify.isCjsx = isCjsx;
+cjsxify.compile = compile;
+cjsxify.isCjsx = isCjsx;
 
 module.exports = cjsxify;
