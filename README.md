@@ -12,7 +12,7 @@ Hello = React.createClass
   render: ->
     <div>Hello, {@props.name}!</div>
 
-React.renderComponent(<Hello name="World" />, document.getElementById('hello'))
+React.renderComponent(<Hello name='World' />, document.getElementById('hello'))
 ```
 
 Save the snippet above as `main.coffee` and then produce a bundle with the following
