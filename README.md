@@ -20,7 +20,7 @@ command:
 
     % browserify -t cjsxify main.coffee -o bundle.js
 
-`cjsxify` transform activates for files with either `.cjsx` extension or `# @cjsx React.DOM` pragma as a first line for any `.coffee` file.
+`cjsxify` is activated for files with either `.cjsx` extension or `# @cjsx React.DOM` pragma as a first line for any `.coffee` file.
 
 ### Installation
 ```bash
