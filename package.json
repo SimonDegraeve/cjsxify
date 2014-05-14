@@ -1,5 +1,5 @@
 {
-  "name": "cjsxy",
+  "name": "cjsxify",
   "version": "0.1.0",
   "description": "Browserify transform for CJSX (CoffeeScript equivalent of JSX used in React library by Facebook)",
   "main": "index.js",

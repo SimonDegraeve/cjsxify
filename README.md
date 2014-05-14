@@ -24,7 +24,7 @@ command:
 
 ### Installation
 ```bash
-npm install -g coffee-react-transform
+npm install cjsxify
 ```
 
 ### Thanks
