@@ -29,5 +29,5 @@ npm install cjsxify
 ```
 
 ### Thanks
-This package is inspired by [coffeeify](https://github.com/jnordberg/coffeeify) and [reactify](https://github.com/andreypopp/reactify) use [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) to handle `cjsx` transformation to `CoffeeScript`.
+This package is inspired by [coffeeify](https://github.com/jnordberg/coffeeify)/[reactify](https://github.com/andreypopp/reactify) and use [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) to handle `cjsx` transformation to `CoffeeScript`.
 Thanks to the authors for their great work.
