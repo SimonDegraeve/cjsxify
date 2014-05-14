@@ -18,7 +18,7 @@ React.renderComponent(<Hello name="World" />, document.getElementById('hello'))
 Save the snippet above as `main.coffee` and then produce a bundle with the following
 command:
 
-    % browserify -t cjsxify main.coffee
+    % browserify -t cjsxify main.coffee -o bundle.js
 
 `cjsxify` transform activates for files with either `.cjsx` extension or `# @cjsx React.DOM` pragma as a first line for any `.coffee` file.
 
