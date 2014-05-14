@@ -1,8 +1,9 @@
 cjsxify
 ====
 
-[Browserify](http://browserify.org/) transform for CJSX (CoffeeScript equivalent of JSX used in [React](http://facebook.github.io/react/) library by Facebook):
+[Browserify](http://browserify.org/) transform for CJSX (CoffeeScript equivalent of JSX used in [React](http://facebook.github.io/react/) library by Facebook).
 
+### Usage
 ```coffeescript
 # @cjsx React.DOM
 
@@ -28,5 +29,5 @@ npm install cjsxify
 ```
 
 ### Thanks
-This package inspired by [coffeeify](https://github.com/jnordberg/coffeeify) and [reactify](https://github.com/andreypopp/reactify) use [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) to handle `cjsx` transformation to `CoffeeScript`.
+This package is inspired by [coffeeify](https://github.com/jnordberg/coffeeify) and [reactify](https://github.com/andreypopp/reactify) use [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) to handle `cjsx` transformation to `CoffeeScript`.
 Thanks to the authors for their great work.
